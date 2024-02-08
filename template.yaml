@@ -5,7 +5,7 @@ metadata:
   title: A simple template
   description: This simple template is used for learning purposes.
 spec:
-  owner: rhdeveloper-book-authors
+  owner: aldamacus
   type: service
   parameters:
     - title: Enter some (required *) component parameters
